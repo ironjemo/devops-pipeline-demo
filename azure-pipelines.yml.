@@ -1,0 +1,5 @@
+pool:
+  name: Default
+steps:
+  - script: echo "Prueba del pipeline"
+    displayName: "Ejecutar script de prueba"
